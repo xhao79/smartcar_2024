@@ -1,0 +1,25 @@
+例程说明：
+
+D0_NULL :不测试任何功能
+
+D1_GPIO :测试GPIO功能
+
+D2_PWM :测试PWM功能
+
+D3_PIT :测试定时器中断功能
+
+D4_ERU :测试GPIO外部中断功能
+
+D5_UART :测试串口功能
+
+D6_ADC :测试ADC功能
+
+D7_PIT :测试编码器功能
+
+D8_FLASH :测试闪存功能
+
+D9_CPU1 :测试CPU1功能
+
+D10_MEMORY :测试内存分配功能
+
+D11_MEMORY :测试获取程序执行时间功能
